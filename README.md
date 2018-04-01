@@ -1,6 +1,11 @@
 # 真央ゼミWebサイト
 真央ゼミのWebサイト用リポジトリです。
 
+Member
+mao professor
+elmas
+wakaba
+
 # ディレクトリ構成
 ```
 seminar/
